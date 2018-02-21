@@ -1,0 +1,14 @@
+#background
+{	background-image: url('../images/space.jpeg');
+	background-attachment:fixed;
+	background-color: rgba(0,0,0,0.5);
+	background-position: cover;
+}
+#income
+{
+	background-position: center;
+}
+#pic:hover
+{
+	background-color: rgba(0,0,0,0.5);
+}
