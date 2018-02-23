@@ -12,3 +12,29 @@
 {
 	background-color: rgba(0,0,0,0.5);
 }
+.row
+{
+	width: 100%;
+}
+#nav:hover
+{
+background-color: rgba(0,0,0,0.4);
+}
+#navbarDropdown:hover
+{
+	background-color: rgba(0,0,0,0.4);
+
+}
+#navbarDropdown:focus
+{
+	background-color: rgba(0,0,0,0.4);
+
+}
+#nav:focus
+{
+background-color: rgba(0,0,0,0.4);
+}
+.active
+{
+background-color: rgba(0,0,0,0.4);
+}
