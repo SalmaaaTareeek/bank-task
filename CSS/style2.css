@@ -1,0 +1,123 @@
+<<<<<<< HEAD
+body {
+     font-family:Arial, Sans-Serif;
+}
+.clearfix:before, .clearfix:after{
+     content: "";
+     display: table;
+}
+.clearfix:after{
+     clear: both;
+}
+a{
+     color:#0067ab;
+     text-decoration:none;
+}
+a:hover{
+     text-decoration:underline;
+}
+.form{
+     width: 300px;
+     margin: 0 auto;
+}
+input[type='text'], input[type='email'],
+input[type='password'] {
+     width: 200px;
+     border-radius: 2px;
+     border: 1px solid #CCC;
+     padding: 10px;
+     color: #333;
+     font-size: 14px;
+     margin-top: 10px;
+}
+input[type='submit']{
+     padding: 10px 25px 8px;
+     color: #fff;
+     background-color: #0067ab;
+     text-shadow: rgba(0,0,0,0.24) 0 1px 0;
+     font-size: 16px;
+     box-shadow: rgba(255,255,255,0.24) 0 2px 0 0 inset,#fff 0 1px 0 0;
+     border: 1px solid #0164a5;
+     border-radius: 2px;
+     margin-top: 10px;
+     cursor:pointer;
+}
+input[type='submit']:hover {
+     background-color: #024978;
+}
+=======
+*{margin:0;padding: 0;}
+ .page{
+	background-image: url('../images/bank-reg.jpg');
+		background-attachment: fixed;
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin: 0 !important;
+ }
+ .qq{
+ 	text-align: center;align-content: center;
+ }
+
+
+
+ .input-group{
+ 	margin-top:3% ;
+ 	text-align: left;
+ }
+
+ .reg{
+padding-top: 1%;
+padding-bottom : 3%;
+ 	margin-top: 7%;
+ 	margin-bottom: 5%;
+ 	background-color: rgba(0,0,0,0.50);
+ 	border-radius: 10px;
+ }
+
+ .text{
+letter-spacing: 1px;
+font-size: 130%;
+font-family: 'Amaranth', sans-serif;
+color:orange;
+ }
+
+
+ input,select{
+ 	font-size: 150%;
+ 	font-weight: bold;
+ 	font-family: 'Quicksand', sans-serif;
+
+
+ }
+ option
+ {
+ 	 	font-size: 120%;
+ 	font-weight: bold;
+ 	font-family: 'Quicksand', sans-serif;
+ }
+
+ legend{
+	font-size: 200%;
+ 	font-family: 'Quicksand', sans-serif;
+ 	font-weight: bold;
+ 	color:orange;
+ 	margin-bottom: 1%;
+ 	padding-bottom: 1%;
+ 	letter-spacing: 1px;
+ }
+
+ .btn{
+ 	border: 1px solid orange;
+ 	background-color: transparent;
+ 	font-size: 160%;
+ }
+
+ .btn:hover{
+ 	background-color: orange;
+ 	color:white;
+
+
+ }
+ 
+>>>>>>> eadb06f76f7605df9411dd0568334fe7486df095
